@@ -1,0 +1,22 @@
+= Rendezvous (Highest Random Weight) Hashing for PHP
+
+image:https://github.com/vrza/php-rendezvous-hashing/actions/workflows/ci.yml/badge.svg[Build Status (GitHub Actions),link=https://github.com/vrza/php-rendezvous-hashing/actions]
+
+https://en.wikipedia.org/wiki/Rendezvous_hashing[Rendezvous Hsahing] (Highest Random Weight Hashing) implementation for PHP
+
+== Setup
+
+Add the following to your `composer.json`:
+
+[source,json]
+----
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/vrza/php-rendezvous-hashing"
+        }
+    ],
+    "require": {
+        "php-rendezvous-hashing/php-rendezvous-hashing": "dev-main"
+    }
+----

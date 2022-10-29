@@ -1,0 +1,17 @@
+{
+    "name": "php-rendezvous-hashing/php-rendezvous-hashing",
+    "description": "Rendezvous (Highest Random Weight) Hashing for PHP",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=7"
+    },
+    "autoload": {
+        "psr-4": {
+            "RendezvousHashing\\": "src/"
+        }
+    }
+}
