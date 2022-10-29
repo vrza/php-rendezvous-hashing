@@ -2,7 +2,7 @@
 
 image:https://github.com/vrza/php-rendezvous-hashing/actions/workflows/ci.yml/badge.svg[Build Status (GitHub Actions),link=https://github.com/vrza/php-rendezvous-hashing/actions]
 
-https://en.wikipedia.org/wiki/Rendezvous_hashing[Rendezvous Hsahing] (Highest Random Weight Hashing) implementation for PHP
+https://en.wikipedia.org/wiki/Rendezvous_hashing[Rendezvous Hsshing] (Highest Random Weight Hashing) implementation for PHP
 
 == Setup
 
