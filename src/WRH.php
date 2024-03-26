@@ -10,8 +10,7 @@ class WRH
         $maxWeight = null;
         foreach ($nodes as $node) {
             $weight = $node->weightedScore($key);
-            if (is_null($maxWeight) || $weight > $maxWeight)
-            {
+            if (is_null($maxWeight) || $weight > $maxWeight) {
                 $maxNode = $node;
                 $maxWeight = $weight;
             }
